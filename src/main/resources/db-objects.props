@@ -1,0 +1,10 @@
+
+set1.categories-table=categories
+set1.items-table=items
+set1.vendors-table=vendors
+set1.vendor-categories-table=vendorcategories
+
+set2.categories-table=categories2
+set2.items-table=items2
+set2.vendors-table=vendors2
+set2.vendor-categories-table=vendorcategories2
